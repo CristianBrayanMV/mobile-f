@@ -1,5 +1,5 @@
 # PROGRAMACIÓN CON FLUTTER
-## RESTOS CON FLUTTER
+## RETOS CON FLUTTER
 
 - Semana 06 Components
 >   # RETO 01 Cards
